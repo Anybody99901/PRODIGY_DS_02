@@ -86,7 +86,7 @@ README.md # Project documentation
 
 ## 📬 Contact
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/) for feedback or collaboration!
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/yaseershaik) for feedback or collaboration!
 
 ---
 

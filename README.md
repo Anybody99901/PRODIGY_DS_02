@@ -61,9 +61,13 @@ README.md # Project documentation
 
 ---
 
-## 📷 Screenshots
+## 📷 Output 
 
-> *Optional: You can upload output images (like graphs or plots) to the GitHub repo and reference them here.*
+![Image](https://github.com/user-attachments/assets/8ee02a86-1ce4-46a3-9eff-a891b7841dc3)
+![Image](https://github.com/user-attachments/assets/b1630ac9-27c3-4433-a1cb-97aedd6006a9)
+![Image](https://github.com/user-attachments/assets/616792a0-8ef0-4553-ad17-4ce345c90996)
+![Image](https://github.com/user-attachments/assets/aca9fdc5-5210-42db-bec1-e9db9940791c)
+![Image](https://github.com/user-attachments/assets/efdb8c94-a730-47df-b922-6262a55d1be8)
 
 ---
 
